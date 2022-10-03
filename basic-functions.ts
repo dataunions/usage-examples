@@ -3,7 +3,6 @@ import { DataUnion } from '@dataunions/client/types/src/DataUnion';
 
 const PRIVATE_KEY = process.env.PRIVATE_KEY;
 const DATA_UNION_ADDRESS = '';
-const SECRET = '97077730-4c89-4b22-97eb-3c12de269157';
 
 const main = async () => {
   /** 1.) Set up the Data Union client with your desired chain */
